@@ -1,0 +1,23 @@
+{
+  "name": "mycafe",
+  "version": "1.0.0",
+  "description": "Testing project for BDD.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cafe"
+  ],
+  "author": "Eugene Zeng",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2",
+    "sinon": "^1.17.6",
+    "sinon-chai": "^2.8.0"
+  },
+  "dependencies": {
+    "q": "^1.4.1"
+  }
+}
